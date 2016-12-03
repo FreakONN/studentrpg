@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentRPG/StudentRPG.iml" filepath="$PROJECT_DIR$/StudentRPG/StudentRPG.iml" />
       <module fileurl="file://$PROJECT_DIR$/TONCI.iml" filepath="$PROJECT_DIR$/TONCI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/startagain/startagain.iml" filepath="$PROJECT_DIR$/startagain/startagain.iml" />
     </modules>
   </component>
 </project>
